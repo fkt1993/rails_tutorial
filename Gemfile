@@ -26,7 +26,9 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 gem 'bcrypt',               '3.1.7'
-
+gem 'faker',                '1.4.2'
+# gem 'will_paginate'
+# gem 'bootstrap-will_paginate'
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use Capistrano for deployment

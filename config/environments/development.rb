@@ -1,4 +1,5 @@
-Rails.application.configure do
+RailsTutorial::Application.configure do
+  require 'tzinfo'
   # Settings specified here will take precedence over those in config/application.rb.
 
   # In the development environment your application's code is reloaded on
